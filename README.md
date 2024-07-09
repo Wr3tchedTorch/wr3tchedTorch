@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on a personal project called Flashnouns<br>🌱 I’m currently improving my skills at: React, Node, Express and Godot.<br>🎓 I graduated in System Development from Etec<br>🎓 I'm majoring in Systems Analysis and Development at Fatec
+🔭 I’m currently working on a personal project called Flashnouns<br>
+🌱 I’m currently improving my skills at: React, Node, Express and Godot.<br>
+🎓 I graduated in System Development at Etec<br>
+🎓 I'm majoring in Systems Analysis and Development at Fatec
 
 
 ## 🌐 Socials:
@@ -17,8 +20,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
