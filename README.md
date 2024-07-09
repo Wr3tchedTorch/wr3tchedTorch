@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a personal project called Flashnouns<br>
+🔭 I’m currently working on a personal project called <a href="https://github.com/Wr3tchedTorch/FlashNouns/tree/client">Flashnouns</a><br>
 🌱 I’m currently improving my skills at: React, Node, Express and Godot.<br>
 🎓 I graduated in System Development at Etec<br>
 🎓 I'm majoring in Systems Analysis and Development at Fatec
