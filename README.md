@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m working on a personal project called <a href="https://github.com/Wr3tchedTorch/FlashNouns/tree/client">Flashnouns</a><br>
+🔭 I’m working on a personal project called <a href="https://github.com/Wr3tchedTorch/erics-galaxy">Eric's Galaxy</a><br>
+📚 I'm enrolled in an online course called <a href="https://fullstackopen.com/en/">Full Stack Open.</a>
 🌱 I’m improving my skills at: React, Node, Express and Godot.<br>
 🎓 I graduated in System Development at Etec<br>
 🎓 I'm majoring in Systems Analysis and Development at Fatec
