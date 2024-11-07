@@ -28,7 +28,7 @@
 <p align="center">🇬🇧 My English level is C1, and I’m also learning German! 🇩🇪<br><br>📚 I’m reading a book on Game Engine Architecture. It’s challenging but also a lot of fun!</p>
 
 ###
-
+<hr>
 <h3 align="center">Check out my Tech Stack 🚀:</h3>
 
 ###
@@ -56,7 +56,7 @@
 <p align="left"></p>
 
 ###
-
+<hr>
 <h3 align="center">Stats and trophies 😎🔥:</h3>
 
 ###
