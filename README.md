@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <p align="center">💻 Passionate student in game development, specializing in C# and C++.<br><br>Feel free to reach out if you need help or just want to chat about programming in general! 😄</p>
 
 ###
@@ -22,8 +26,6 @@
 <br clear="both">
 
 <p align="center">🇬🇧 My English level is C1, and I’m also learning German! 🇩🇪<br><br>📚 I’m reading a book on Game Engine Architecture. It’s challenging but also a lot of fun!</p>
-
-<hr>
 
 ###
 
@@ -54,16 +56,15 @@
 <p align="left"></p>
 
 ###
-<hr>
+
 <h3 align="center">Stats and trophies 😎🔥:</h3>
 
 ###
 
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app?username=wr3tchedTorch&theme=tokyonight" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wr3tchedTorch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=wr3tchedTorch&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=wr3tchedTorch&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=wr3tchedTorch&theme=matrix" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wr3tchedTorch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=wr3tchedTorch&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
