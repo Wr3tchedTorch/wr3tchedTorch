@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m improving my skills at C#, C++, Godot and Game development in general.<br>
-🎓 C1 English
+🎓 C1 English<br>
 🎓 I graduated in System Development at Etec<br>
 🎓 I'm majoring in Systems Analysis and Development at Fatec
 
