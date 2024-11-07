@@ -1,18 +1,8 @@
-<img align="left" height="165" src="http://i.postimg.cc/gjfh9gQ8/1721185003599.jpg"  />
+<h1 align="center">Hey 🤝! My name is Eric, I'm a developer from Brazil 🇧🇷.</h1>
 
 ###
 
-<h2 align="left">Hey 🤝! My name is Eric, I'm a developer from Brazil 🇧🇷.</h2>
-
-###
-
-<p align="left">💻 Passionate student in game development, specializing in C# and C++.<br><br>Feel free to reach out if you need help or just want to chat about programming in general! 😄</p>
-
-<hr>
-
-###
-
-<p align="left"></p>
+<p align="center">💻 Passionate student in game development, specializing in C# and C++.<br><br>Feel free to reach out if you need help or just want to chat about programming in general! 😄</p>
 
 ###
 
@@ -33,6 +23,8 @@
 
 <p align="center">🇬🇧 My English level is C1, and I’m also learning German! 🇩🇪<br><br>📚 I’m reading a book on Game Engine Architecture. It’s challenging but also a lot of fun!</p>
 
+<hr>
+
 ###
 
 <h3 align="center">Check out my Tech Stack 🚀:</h3>
@@ -52,6 +44,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/wr3tchedTorch/wr3tchedTorch/output/snake.svg" alt="Snake animation" />
 
