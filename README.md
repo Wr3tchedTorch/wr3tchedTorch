@@ -54,7 +54,7 @@
 <p align="left"></p>
 
 ###
-
+<hr>
 <h3 align="center">Stats and trophies 😎🔥:</h3>
 
 ###
