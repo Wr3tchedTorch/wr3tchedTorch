@@ -1,4 +1,4 @@
-<img align="left" height="165" src="https://i.postimg.cc/gjfh9gQ8/1721185003599.jpg"  />
+<img align="left" height="165" src="http://i.postimg.cc/gjfh9gQ8/1721185003599.jpg"  />
 
 ###
 
@@ -7,6 +7,8 @@
 ###
 
 <p align="left">💻 Passionate student in game development, specializing in C# and C++.<br><br>Feel free to reach out if you need help or just want to chat about programming in general! 😄</p>
+
+<hr>
 
 ###
 
