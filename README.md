@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/wr3tchedTorch/wr3tchedTorch/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ericericmoura/ericericmoura/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -62,7 +62,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=wr3tchedTorch&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=ericericmoura&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
