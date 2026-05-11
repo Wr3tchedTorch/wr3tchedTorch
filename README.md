@@ -1,4 +1,4 @@
-<h1 align="center">Hey 🤝! My name is Eric, I'm a developer from Brazil 🇧🇷.</h1>
+<h1 align="center">Game Engineer from Brazil 🇧🇷.</h1>
 
 ###
 
