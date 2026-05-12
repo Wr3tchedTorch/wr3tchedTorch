@@ -42,14 +42,6 @@ Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfól
 
 #
 
-### 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=ericericmoura&theme=dark&hide_border=false)<br/>
-
-<img src="https://raw.githubusercontent.com/ericericmoura/ericericmoura/output/snake.svg" alt="Snake animation" />
-
-![](https://github-profile-trophy.vercel.app/?username=ericericmoura&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-
-#
 
 <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"></img>
 
@@ -57,3 +49,12 @@ Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfól
   <summary><h3>📖 Minha jornada na programação</h3></summary>
   Sempre me interessei por tecnologia, principalmente robótica, devido a influência de filmes e jogos. Meu primeiro contato real com a programação foi no Tinkercad, que permitia a criação de protótipos de arduino e eletrônica. Foi através do Arduino que tive meu primeiro contato com C++. Os projetos eram simples na época, mas ainda muito emocionantes. Depois que comprei meu primeiro arduino segui fazendo diversos projetos, e realizando melhorias em projetos existentes. Meu maior e mais marcante projeto com o Arduino foi um carrinho de controle remoto com bluetooth, que também tinha um modo de desvio de obstaculo automático, usando um sensor ultrassonico. Depois de alguns anos trabalhando com Arduino, resolvi tentar algo novo, baixei o GameMaker (na época se chamava GameMaker Studio 2) e tentei criar um jogo. Era um jogo top-down estilo bullet hell, o jogo ficou legal, mas não segui em frente com o projeto. Depois fui passando de engine em engine, experimentando várias opções: unity, godot, unreal. No fim, acabei me apegando bastante ao Godot, e passei um bom tempo estudando e aprendendo a usar essa engine. Também desenvolvi alguns jogos nela. Hoje, tenho foco em estudar desenvolvimento de jogos usando ferramentas de baixo nível. Quero entender tudo o que diz respeito ao desenvolvimento de um jogo, pois sei que isso vai me ajudar a crescer como profissional. Futuramente também desejo me especializar em Unreal.
 </details>
+
+#
+
+### 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=ericericmoura&theme=dark&hide_border=false)<br/>
+
+<img src="https://raw.githubusercontent.com/ericericmoura/ericericmoura/output/snake.svg" alt="Snake animation" />
+
+![](https://github-profile-trophy.vercel.app/?username=ericericmoura&theme=dark&no-frame=true&no-bg=false&margin-w=4)
