@@ -1,14 +1,25 @@
-<h1 align="center">Game Engineer from Brazil 🇧🇷.</h1>
+# 🎮 Eric Moura
 
-###
+**`Game Engineer`**
 
-<p align="left"></p>
+Desenvolvedor especializado em C++ com foco em jogos e sistemas de alta performance. Desenvolvi a **Ni Engine**, uma engine in-house construida com SFML e OpenGL, com arquitetura baseada em componentes e foco em código limpo e manutenibilidade. Ela já foi usada para a criação de um jogo completo. Quais as motivações para a criação de uma engine proprietária? no meu caso, esse processo está me ajudando a entender as diversas camadas que formam um jogo. 
 
-###
+<p>
+  <a><img src="https://custom-icon-badges.demolab.com/badge/itch.io-orange?style=for-the-badge&logo=person-add&logoColor=white" /></a>
+  <a><img src="https://custom-icon-badges.demolab.com/badge/-ericmoura511@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" /></a>
+</p>
 
-<p align="center">💻 Passionate student in game development, specializing in C# and C++.<br><br>Feel free to reach out if you need help or just want to chat about programming in general! 😄</p>
+Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfólio profissional</a> 
 
-###
+<p>
+  <a><img src="https://custom-icon-badges.demolab.com/badge/Ni Engine-blue.svg?logo=repo" /></a>
+  <a><img src="https://custom-icon-badges.demolab.com/badge/Último Projeto-purple.svg?logo=controller" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"></img>
+
+---
+
 
 <br clear="both">
 
