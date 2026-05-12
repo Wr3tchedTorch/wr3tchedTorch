@@ -16,64 +16,44 @@ Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfól
   <a><img src="https://custom-icon-badges.demolab.com/badge/Último Projeto-purple.svg?logo=controller" /></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"></img>
-
 ---
+### 🧰 Linguagens e ferramentas
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
+#
 
-<br clear="both">
+### 👾 Últimos Jogos
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/eric-moura-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://linktr.ee/ericericeri_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkTree&logo=linktree&label=&color=1DE9B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center" style="padding: 12px;">
+      <a href="https://your-project-link.com">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhkZ2ZyY2x4bTJlbWh5eGFscWM2ZWNjemwyejI0c2pmdTh3am53MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.gif"
+          width="250"
+          style="border-radius: 10px; display: block;"/>
+      </a>
+      <br/>
+      <strong>Easy Game</strong>
+      <br/>
+      <sub>2D · Platformer</sub>
+    </td>
+  </tr>
+</table>
 
-###
+#
 
-<br clear="both">
-
-<p align="center">🇬🇧 My English level is C1, and I’m also learning German! 🇩🇪<br><br>📚 I’m reading a book on Game Engine Architecture. It’s challenging but also a lot of fun!</p>
-
-###
-<hr>
-<h3 align="center">Check out my Tech Stack 🚀:</h3>
-
-###
-
-<div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="60" alt="dot-net logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
-  <img width="20" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="60" alt="arduino logo"  />
-</div>
-
-###
-
-<br clear="both">
+### 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=ericericmoura&theme=dark&hide_border=false)<br/>
 
 <img src="https://raw.githubusercontent.com/ericericmoura/ericericmoura/output/snake.svg" alt="Snake animation" />
 
-###
+![](https://github-profile-trophy.vercel.app/?username=ericericmoura&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="left"></p>
+#
 
-###
-<hr>
-<h3 align="center">Stats and trophies 😎🔥:</h3>
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"></img>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ericericmoura&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
+<details>
+  <summary><h3>📖 Minha jornada na programação</h3></summary>
+  Sempre me interessei por tecnologia, principalmente robótica, devido a influência de filmes e jogos. Meu primeiro contato real com a programação foi no Tinkercad, que permitia a criação de protótipos de arduino e eletrônica. Foi através do Arduino que tive meu primeiro contato com C++. Os projetos eram simples na época, mas ainda muito emocionantes. Depois que comprei meu primeiro arduino segui fazendo diversos projetos, e realizando melhorias em projetos existentes. Meu maior e mais marcante projeto com o Arduino foi um carrinho de controle remoto com bluetooth, que também tinha um modo de desvio de obstaculo automático, usando um sensor ultrassonico. Depois de alguns anos trabalhando com Arduino, resolvi tentar algo novo, baixei o GameMaker (na época se chamava GameMaker Studio 2) e tentei criar um jogo. Era um jogo top-down estilo bullet hell, o jogo ficou legal, mas não segui em frente com o projeto. Depois fui passando de engine em engine, experimentando várias opções: unity, godot, unreal. No fim, acabei me apegando bastante ao Godot, e passei um bom tempo estudando e aprendendo a usar essa engine. Também desenvolvi alguns jogos nela. Hoje, tenho foco em estudar desenvolvimento de jogos usando ferramentas de baixo nível. Quero entender tudo o que diz respeito ao desenvolvimento de um jogo, pois sei que isso vai me ajudar a crescer como profissional. Futuramente também desejo me especializar em Unreal.
+</details>
