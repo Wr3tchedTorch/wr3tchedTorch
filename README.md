@@ -6,14 +6,14 @@ Desenvolvedor especializado em C++ com foco em jogos e sistemas de alta performa
 
 <p>
   <a><img src="https://custom-icon-badges.demolab.com/badge/itch.io-orange?style=for-the-badge&logo=person-add&logoColor=white" /></a>
-  <a><img src="https://custom-icon-badges.demolab.com/badge/-ericmoura511@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" /></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/-ericmoura511@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white" />
 </p>
 
 Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfólio profissional</a> 
 
 <p>
-  <a><img src="https://custom-icon-badges.demolab.com/badge/Ni Engine-blue.svg?logo=repo" /></a>
-  <a><img src="https://custom-icon-badges.demolab.com/badge/Último Projeto-purple.svg?logo=controller" /></a>
+  <a href="https://github.com/ericericmoura/ni-engine"><img src="https://custom-icon-badges.demolab.com/badge/Ni Engine-blue.svg?logo=repo" /></a>
+  <a href="https://github.com/ericericmoura/easy-game"><img src="https://custom-icon-badges.demolab.com/badge/Último Projeto-purple.svg?logo=controller" /></a>
 </p>
 
 ---
@@ -27,13 +27,13 @@ Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfól
 <table>
   <tr>
     <td align="center" style="padding: 12px;">
-      <a href="https://your-project-link.com">
+      <a href="https://github.com/ericericmoura/easy-game">
         <img src="assets/level_1_zoomed.gif"
           width="250"
           style="border-radius: 10px; display: block;"/>
       </a>
       <br/>
-      <strong>Easy Game</strong>
+      <strong><a href="https://github.com/ericericmoura/easy-game">Easy Game</a></strong>
       <br/>
       <sub>2D · Platformer</sub>
     </td>
