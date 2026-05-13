@@ -28,7 +28,7 @@ Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfól
   <tr>
     <td align="center" style="padding: 12px;">
       <a href="https://your-project-link.com">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhkZ2ZyY2x4bTJlbWh5eGFscWM2ZWNjemwyejI0c2pmdTh3am53MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.gif"
+        <img src="assets/level_1_zoomed.gif"
           width="250"
           style="border-radius: 10px; display: block;"/>
       </a>
