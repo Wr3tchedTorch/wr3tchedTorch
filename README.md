@@ -28,7 +28,7 @@ Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfól
   <tr>
     <td align="center" style="padding: 12px;">
       <a href="https://github.com/ericericmoura/easy-game">
-        <img src="assets/level_1_zoomed.gif"
+        <img src="assets/level_1_gameplay.gif"
           width="250"
           style="border-radius: 10px; display: block;"/>
       </a>
