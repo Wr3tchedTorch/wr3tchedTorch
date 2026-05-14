@@ -53,8 +53,12 @@ Todos os meus jogos podem ser encontrados no meu <a href="linkdoportfo">portfól
 #
 
 ### 📊 GitHub Stats:
+
 ![](https://streak-stats.demolab.com/?user=ericericmoura&theme=dark&hide_border=false)<br/>
 
 <img src="https://raw.githubusercontent.com/ericericmoura/ericericmoura/output/snake.svg" alt="Snake animation" />
+
+[![Eric's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ericericmoura&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)<br/>
+
 
 ![](https://github-profile-trophy.vercel.app/?username=ericericmoura&theme=dark&no-frame=true&no-bg=false&margin-w=4)
